@@ -27,7 +27,7 @@ Developing next-generation computational systems at the intersection of theoreti
 
 ### Knowledge Dissemination
 
-📺 [TensorScholar](https://youtube.com/@TensorScholar) - Deconstructing computational systems through visual exposition
+📺 [TensorScholar](https://youtube.com/@TensorScholar) - Illuminating theoretical computer science through rigorous visual pedagogy
 
 <br>
 
