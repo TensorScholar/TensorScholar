@@ -15,7 +15,7 @@ Developing next-generation computational systems at the intersection of theoreti
 
 | System Engineering | Algorithmic Visualization | Research Foundations |
 |:------------------:|:-------------------------:|:--------------------:|
-| [Advanced Local RAG](https://github.com/TensorScholar/advanced-local-rag) | [Pathfinding Laboratory](https://github.com/TensorScholar/pathfinding-algorithm-laboratory) | [NEXUS Framework](https://github.com/TensorScholar) |
+| [Advanced Local RAG](https://github.com/TensorScholar/advanced-local-rag) | [Pathfinding Laboratory](https://github.com/TensorScholar/pathfinding-algorithm-laboratory) | [NEXUS Framework](https://github.com/TensorScholar/chronos.git) |
 | [DPOA Optimization](https://github.com/TensorScholar/dynamic-programming-optimization-arsenal) | [Sorting Visualizer](https://github.com/TensorScholar/sorting-algorithm-visualization) | [QTML](https://github.com/TensorScholar) |
 
 ### Technical Focus
